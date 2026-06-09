@@ -10,7 +10,7 @@ Basic social media app with post creation and user authentication using Django f
 4. SQLite database
 
 ## Tech Stack
-Python, Django, SQLite3
+Python, Django, SQLite3,HTML/CSS
 
 ## Run Command
 py manage.py runserver
