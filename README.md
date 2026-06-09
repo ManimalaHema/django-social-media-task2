@@ -6,7 +6,7 @@ Basic social media app with Django framework.
 ## Features
 1. User signup, login, logout
 2. Create posts
-3. View posts feed
+3. View posts 
 4. SQLite database
 
 ## Tech Stack
