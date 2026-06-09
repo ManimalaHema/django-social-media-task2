@@ -9,7 +9,7 @@ Basic social media app with Django framework.
 3. View posts feed
 4. SQLite database
 
-## Technology Used
+## Tech Stack
 Python, Django, SQLite3
 
 ## Run Command
