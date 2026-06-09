@@ -1,7 +1,7 @@
 # django-social-media-task2
 
 ## Description
-Basic social media app with Django framework.
+Basic social media app with post creation and user authentication using Django framework.
 
 ## Features
 1. User signup, login, logout
